@@ -1,0 +1,15 @@
+{
+  "name": "[Shashank]",
+  "img": "[YOUR_IMG_URL]",
+  "links": {
+    "website": "[YOUR_WEBSITE_URL]",
+    "linkedin": "https://www.linkedin.com/in/shashank-j-81075b191/>",
+    "github": "https://github.com/shashank-k1ngalpha>"
+  },
+  "jobTitle": "[Engineer|Software Developer|A.I Developer]",
+  "location": {
+    "city": "[Bangalore]",
+    "state": "[Karnataka]",
+    "country": "[India]"
+  }
+}
